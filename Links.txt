@@ -1,0 +1,8 @@
+Good repository: https://github.com/HoanghoDev?tab=overview&from=2024-04-01&to=2024-04-25
+Slider_nike:
+github: https://github.com/HoanghoDev/slider_nike.git
+Youtube: https://www.youtube.com/watch?v=625_hM6bZuE&ab_channel=LunDev
+
+Carousal_slider:
+github: https://github.com/HoanghoDev/carousel-bootstrap.git
+Youtube: https://www.youtube.com/watch?v=1XXY_5k8Nok&ab_channel=LunDev
